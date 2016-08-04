@@ -1,4 +1,6 @@
 typography_spectrum: 0.4268700545653701
+content_rating:
+  adult: false
 color:
   brandStrength: 0.4438389411661774
   lightness: 0.4155623218975961
@@ -11,6 +13,14 @@ color:
     - '#F6E8B1'
     - '#89725B'
 layout_spectrum: 0.2714012013748288
+author:
+  name: Simon Holohan
+  email: simon@smx.ie
+  url: www.golfkildare.ie
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d870a6b-278b-467a-ba86-1ff584a35203.jpg
 name: Golf Kildare
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/594d3a75-a1d1-4d9c-8191-699f793d93d0.png
 title: Golf Breaks in Kildare
 description: One stop shop for organising a golf outing to Kildare
