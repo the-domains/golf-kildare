@@ -20,6 +20,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d870a6b-278b-467a-ba86-1ff584a35203.jpg
 name: Golf Kildare
+navigation:
+  - name: 'Golf Special Offers '
+    id: fb4796cd-1e66-459b-b4d2-ae2d85d927ef
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/594d3a75-a1d1-4d9c-8191-699f793d93d0.png
 title: Golf Breaks in Kildare
