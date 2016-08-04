@@ -1,4 +1,3 @@
-layout_spectrum: 0.2714012013748288
 typography_spectrum: 0.4268700545653701
 color:
   brandStrength: 0.4438389411661774
@@ -11,5 +10,7 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.2714012013748288
 name: Golf Kildare
 title: Golf Breaks in Kildare
+description: one stop shop for organising a golf outing to Coun
