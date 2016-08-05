@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T14:02:19.995Z'
+datePublished: '2016-08-05T14:09:56.110Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -30,11 +30,11 @@ related:
     thumbnail_width: 360
 author: []
 via: {}
-dateModified: '2016-08-05T14:02:19.527Z'
-title: ''
+dateModified: '2016-08-05T14:09:55.546Z'
+title: Golf Special Offers
 app_links: []
 publisher: {}
-description: 'Enjoying a few holes '
+description: 2 nights B&B plus 1 Dinner - Lawlors Hotel Naas
 inLanguage: en
 inNav: false
 starred: false
@@ -44,3 +44,7 @@ _type: MediaObject
 ---
 ![Enjoying a few holes ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a6bad1-7abd-4160-8d83-621cf6e477bf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dcde05d-65b4-468a-8f23-cdbf61f5fbbc.jpg)
+
+## Golf Special Offers
+
+2 nights B&B plus 1 Dinner - Lawlors Hotel Naas
