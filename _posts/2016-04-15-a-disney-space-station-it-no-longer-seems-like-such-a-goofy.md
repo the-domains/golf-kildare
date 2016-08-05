@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T14:34:51.141Z'
+datePublished: '2016-08-05T14:42:04.753Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -30,11 +30,11 @@ related:
     thumbnail_width: 360
 author: []
 via: {}
-dateModified: '2016-08-05T14:34:50.655Z'
+dateModified: '2016-08-05T14:42:04.435Z'
 title: Golf Special Offers
 app_links: []
 publisher: {}
-description: 'Discounted golf break and golf weekend deals '
+description: Discounted golf break and golf weekend deals
 inLanguage: en
 inNav: false
 starred: false
@@ -46,7 +46,7 @@ _type: MediaObject
 
 ## Golf Special Offers
 
-Discounted golf break and golf weekend deals 
+Discounted golf break and golf weekend deals
 
 # Naas - Best of the Best Trip
 
@@ -54,3 +54,5 @@ Discounted golf break and golf weekend deals
 * K-Club Palmer Course - 18 Holes **GOLD**
 * Palmerstown Stud - 18 Holes **GOLD**
 * Dunmurry Springs - 18 Holes **GOLD**
+* €199 pps
+![Avoiding the Liffey on the 9th Hole](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c7018f6-900f-4811-a027-db073eb1b485.jpg)
