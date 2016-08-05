@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T14:42:04.753Z'
+datePublished: '2016-08-05T15:39:04.843Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -30,11 +30,11 @@ related:
     thumbnail_width: 360
 author: []
 via: {}
-dateModified: '2016-08-05T14:42:04.435Z'
+dateModified: '2016-08-05T15:39:04.406Z'
 title: Golf Special Offers
 app_links: []
 publisher: {}
-description: Discounted golf break and golf weekend deals
+description: Heading above the picture
 inLanguage: en
 inNav: false
 starred: false
@@ -42,6 +42,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Heading above the picture
 ![Enjoying a few holes ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a6bad1-7abd-4160-8d83-621cf6e477bf.jpg)
 
 ## Golf Special Offers
