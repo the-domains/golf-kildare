@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T09:44:40.050Z'
+datePublished: '2016-08-05T14:02:19.995Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -28,29 +28,19 @@ related:
     thumbnail_url: >-
       http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154_nasatv_public_hr_1330361732,640x360,b:1.jpg
     thumbnail_width: 360
-author:
-  - name: Eric Berger
-    url: 'http://arstechnica.com/author/ericberger/'
-    avatar: {}
-dateModified: '2016-08-04T09:44:38.871Z'
-title: A Disney space station? It no longer seems like such a goofy idea
+author: []
+via: {}
+dateModified: '2016-08-05T14:02:19.527Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://arstechnica.com'
-  name: Ars Technica
-  favicon: 'https://cdn.arstechnica.net/favicon.ico'
-  domain: arstechnica.com
-description: >-
-  Throughout our planet's space-faring history, there have been two major
-  impediments to putting a lot of private citizens into orbit. Only governments
-  have had spacecraft, and there have been only a few, government-controlled,
-  space stations to visit. But now that may finally changing in a big way.
+publisher: {}
+description: 'Enjoying a few holes '
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2016/04/Picture_10_two_BA_330_one_CST_100_one_dragon-with-logo-640x495.jpg" /></article>
+![Enjoying a few holes ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a6bad1-7abd-4160-8d83-621cf6e477bf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dcde05d-65b4-468a-8f23-cdbf61f5fbbc.jpg)
