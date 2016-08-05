@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T14:09:56.110Z'
+datePublished: '2016-08-05T14:34:51.141Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -30,11 +30,11 @@ related:
     thumbnail_width: 360
 author: []
 via: {}
-dateModified: '2016-08-05T14:09:55.546Z'
+dateModified: '2016-08-05T14:34:50.655Z'
 title: Golf Special Offers
 app_links: []
 publisher: {}
-description: 2 nights B&B plus 1 Dinner - Lawlors Hotel Naas
+description: 'Discounted golf break and golf weekend deals '
 inLanguage: en
 inNav: false
 starred: false
@@ -43,8 +43,14 @@ _type: MediaObject
 
 ---
 ![Enjoying a few holes ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a6bad1-7abd-4160-8d83-621cf6e477bf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dcde05d-65b4-468a-8f23-cdbf61f5fbbc.jpg)
 
 ## Golf Special Offers
 
-2 nights B&B plus 1 Dinner - Lawlors Hotel Naas
+Discounted golf break and golf weekend deals 
+
+# Naas - Best of the Best Trip
+
+* 2 Nights B&B plus 1 Dinner - Lawlors Hotel Naas
+* K-Club Palmer Course - 18 Holes **GOLD**
+* Palmerstown Stud - 18 Holes **GOLD**
+* Dunmurry Springs - 18 Holes **GOLD**
