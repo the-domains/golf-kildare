@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T09:44:40.021Z'
+datePublished: '2016-08-12T15:39:42.842Z'
 sourcePath: _posts/2016-04-15-the-best-hostel-in-every-major-european-city.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,15 +18,10 @@ keywords:
   - independente
   - grandio
 related: []
-author:
-  - name: Barbara Woolsey
-    url: 'https://www.thrillist.com/authors/barbara-woolsey'
-    avatar: {}
-  - name: '@barbarawoolsey'
-    url: 'https://www.twitter.com/@barbarawoolsey'
-    avatar: {}
-dateModified: '2016-08-04T09:44:38.564Z'
-title: The Best Hostel in Every Major European City
+author: []
+via: {}
+dateModified: '2016-08-12T15:39:42.120Z'
+title: Course Ratings to Assist your Decision
 app_links:
   - namespace: twitter
     type: iphone
@@ -42,10 +37,9 @@ description: >-
   builds character like fighting for power outlets,&hellip;
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Best Hostel in Every Major European City</h1><p>Staying at hostels was once a backpacker's rite of passage. After all, nothing builds character like fighting for power outlets,&amp;hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c6b94d156dc880d5a3bde273b4b321f30df92e.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b96973-0c62-4d2c-8536-5581656b5632.jpg)
